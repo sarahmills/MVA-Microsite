@@ -1,0 +1,413 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 'HelvNeue Light for IBM';
+  color: #6d7777;
+}
+
+.container {
+  float: left;
+}
+
+.container .image {
+  position: relative;
+  clear: both;
+  z-index: 14;
+  width: 31px;
+  margin: -39px 0 0 82.7182672073%;
+}
+
+.container .text {
+  position: relative;
+  font-weight: normal;
+}
+
+.image {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+}
+
+._button {
+  display: block;
+  float: left;
+  clear: both;
+  font-size: 1em;
+  text-align: center;
+}
+
+._element {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 100%;
+  height: 604px;
+  margin-top: 60px;
+  background: url('../images/frame-00000.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+._input {
+  display: block;
+  position: relative;
+  float: left;
+  clear: both;
+  width: 99.6753246753%;
+  height: 32px;
+  padding: 0 10px;
+  border-bottom: 1px solid rgb(167, 250, 230);
+  background-color: rgb(22, 41, 52);
+  color: rgb(167, 250, 230);
+}
+
+.element ._button {
+  width: 88.7283236994%;
+  height: 44px;
+  margin: 24px 0 0 5.66745%;
+  background-color: rgb(151, 90, 209);
+  color: rgb(214, 172, 253);
+}
+
+.container-1 {
+  width: 25.3684895833%;
+  height: 39px;
+  margin: 14px 0 0 3.51172%;
+}
+
+.container-2 {
+  width: 88.8186416184%;
+  height: 48px;
+  margin: 10px 0 0 5.77132%;
+}
+
+.container-3 {
+  clear: both;
+  width: 88.8502528901%;
+  height: 47px;
+  margin: 31px 0 0 5.77132%;
+}
+
+.container-4 {
+  clear: both;
+  width: 88.8502528901%;
+  height: 48px;
+  margin: 32px 0 0 5.77132%;
+}
+
+.container-5 {
+  clear: both;
+  width: 88.8502528901%;
+  height: 49px;
+  margin: 30px 0 0 5.77132%;
+}
+
+.element-2 {
+  position: fixed;
+  top: -1px;
+  left: 0;
+  z-index: 19;
+  width: 100%;
+  height: 68px;
+  background-color: rgb(22, 41, 52);
+}
+
+.element-3 {
+  position: relative;
+  float: left;
+  z-index: 35;
+  width: 28.8333333333%;
+  height: 444px;
+  margin: -664px 0 0 61.20703%;
+  background-color: rgb(22, 41, 52);
+  overflow: visible;
+}
+
+.image-1 {
+  width: 69px;
+  margin: 19px 0 0 1.66146%;
+}
+
+.image-2 {
+  width: 32px;
+  margin: 14px 0 0 15.07422%;
+}
+
+.image-4 {
+  position: relative;
+  clear: both;
+  z-index: 12;
+  width: 10px;
+  margin: -549px 0 0 47.75%;
+}
+
+.image-5 {
+  position: relative;
+  clear: both;
+  z-index: 34;
+  width: 31px;
+  margin: -44px 0 0 84.79949%;
+}
+
+.image-6 {
+  position: relative;
+  z-index: 5;
+  width: 219px;
+  margin: 91px 0 0 10%;
+}
+
+.text-1 {
+  width: 33.31640625%;
+  min-height: 34px;
+  margin: 19px 0 0 2.66146%;
+  font-size: 1.563em;
+  color: rgb(237, 211, 254);
+}
+
+.text-10 {
+  position: relative;
+  clear: both;
+  z-index: 4;
+  width: 52.7986979166%;
+  min-height: 199px;
+  margin: -105px 0 0 37.1992199999%;
+  font-size: 1em;
+  color: #6d7777;
+}
+
+.text-11 {
+  position: relative;
+  clear: both;
+  z-index: 8;
+  width: 39.2%;
+  min-height: 115px;
+  margin: 46px 0 0 30.39974%;
+  font-family: Helvetica;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-12 {
+  position: relative;
+  clear: both;
+  z-index: 7;
+  width: 52.7981770833%;
+  min-height: 199px;
+  margin: -5px 0 0 10.04297%;
+  font-size: 1em;
+  color: #6d7777;
+}
+
+.text-13 {
+  position: relative;
+  clear: both;
+  z-index: 11;
+  width: 52.7981770833%;
+  min-height: 199px;
+  margin: -5px 0 0 37.24219%;
+  font-size: 1em;
+  color: #6d7777;
+}
+
+.text-2 {
+  z-index: 15;
+  width: 92.3061130216%;
+  min-height: 35px;
+  margin: 9px 0 0 -6.8726582149%;
+  font-family: HelvNeueLightforIBM;
+  font-size: 1.063em;
+  color: rgb(74, 213, 195);
+}
+
+.text-2:hover {
+  color: rgb(28, 179, 160);
+}
+
+.text-2:active {
+  color: rgb(35, 150, 135);
+}
+
+.text-3 {
+  position: relative;
+  z-index: 1;
+  width: 32.3333333333%;
+  min-height: 173px;
+  margin: -332px 0 0 10%;
+  font: 3.688em/1.18 'HelvNeue Bold for IBM';
+  color: rgb(30, 54, 72);
+}
+
+.text-4 {
+  position: relative;
+  z-index: 21;
+  width: 80.9248554913%;
+  min-height: 35px;
+  margin: 24px 0 0 5.77132%;
+  font-family: HelvNeueLightforIBM;
+  font-size: 1.063em;
+  font-weight: normal;
+  color: rgb(74, 213, 195);
+}
+
+.text-5 {
+  z-index: 23;
+  width: 49.8731737012%;
+  min-height: 21px;
+  margin-left: -0.10169%;
+  font-family: HelvNeueMediumforIBM;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(167, 250, 230);
+}
+
+.text-6 {
+  z-index: 25;
+  width: 49.8731737012%;
+  min-height: 21px;
+  margin-left: -0.09657%;
+  font-family: HelvNeueMediumforIBM;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(167, 250, 230);
+}
+
+.text-7 {
+  z-index: 28;
+  width: 49.8731737012%;
+  min-height: 21px;
+  margin-left: -0.09657%;
+  font-family: HelvNeueMediumforIBM;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(167, 250, 230);
+}
+
+.text-8 {
+  z-index: 31;
+  width: 49.8731737012%;
+  min-height: 21px;
+  margin-left: -0.09657%;
+  font-family: HelvNeueMediumforIBM;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(167, 250, 230);
+}
+
+.text-9 {
+  position: relative;
+  z-index: 2;
+  width: 25.5%;
+  min-height: 92px;
+  margin: -112px 0 0 10%;
+  font-family: HelvNeueLightforIBM;
+  font-size: 1.438em;
+  font-weight: normal;
+  color: rgb(109, 119, 119);
+}
+
+._button-2 {
+  position: relative;
+  z-index: 9;
+  width: 12%;
+  height: 43px;
+  margin: -31px 0 0 64.39974%;
+  border-radius: 3px;
+  background-color: rgb(222, 222, 222);
+  font-family: Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+._text-10 {
+  position: relative;
+  float: left;
+  z-index: 3;
+  width: 52.8%;
+  min-height: 56px;
+  margin: 157px 0 0 8.90625%;
+  font-size: 1.813em;
+  color: rgb(151, 90, 209);
+}
+
+._text-13 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 6;
+  width: 52.7994791666%;
+  min-height: 56px;
+  margin: 84px 0 0 10%;
+  font-size: 1.813em;
+  color: rgb(151, 90, 209);
+}
+
+._text-15 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 10;
+  width: 52.7994791666%;
+  min-height: 56px;
+  margin: 261px 0 0 37.1992199999%;
+  font-size: 1.813em;
+  color: rgb(151, 90, 209);
+}
+
+.container ._input-1 {
+  z-index: 22;
+  margin-top: -6px;
+  font-size: 0.938em;
+}
+
+.container ._input-2 {
+  z-index: 26;
+  margin: -7px 0 0 0.01525%;
+  font-size: 0.813em;
+}
+
+.container ._input-3 {
+  z-index: 29;
+  margin: -6px 0 0 0.01525%;
+  font-size: 0.938em;
+}
+
+.container ._input-4 {
+  z-index: 32;
+  margin: -5px 0 0 0.01525%;
+  font-size: 0.938em;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-size: inherit;
+  font-weight: Regular;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
